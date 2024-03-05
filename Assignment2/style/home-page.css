@@ -1,0 +1,1975 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.home-page-kym {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 8.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.home-page-kym .above-the-fold-vmm {
+  width: 100%;
+  height: 77.4rem;
+  position: relative;
+  background-color: #fcf8f3;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .rectangle-51-Q4f {
+  width: 96.4rem;
+  height: 77.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #f8f0e6;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s {
+  width: 286.6rem;
+  height: 62.3rem;
+  position: absolute;
+  left: 0;
+  top: 15.1rem;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: flex-end;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .item-2563956-1-ZLs {
+  width: 93.4rem;
+  height: 55.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF {
+  width: 93.4rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-hnjt-nzK {
+  margin: 0rem 0rem 2.2rem 22rem;
+  width: calc(100% - 22rem);
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-hnjt-nzK .indicator-5yR {
+  margin: 1.1rem 49rem 1rem 0rem;
+  height: calc(100% - 2.1rem);
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-hnjt-nzK .indicator-5yR .active-jKD {
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-hnjt-nzK .indicator-5yR .ellipse-1-FoM {
+  width: 1.1rem;
+  height: 1.1rem;
+  background-color: #d8d8d8;
+  border-radius: 0.55rem;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-hnjt-nzK .indicator-5yR .ellipse-2-Y1m {
+  width: 1.1rem;
+  height: 1.1rem;
+  background-color: #d8d8d8;
+  border-radius: 0.55rem;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-hnjt-nzK .indicator-5yR .ellipse-3-TuR {
+  width: 1.1rem;
+  height: 1.1rem;
+  background-color: #d8d8d8;
+  border-radius: 0.55rem;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-hnjt-nzK .group-22-mQK {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-hnjt-nzK .group-22-mQK .group-13-5vo {
+  margin-right: 0.8rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-hnjt-nzK .group-22-mQK .group-21-25M {
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-5e5m-iis {
+  box-sizing: border-box;
+  padding: 18.427rem 4rem 4rem 60rem;
+  width: 100%;
+  height: 55.3rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg.png');
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-5e5m-iis .info-box-EhD {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-5e5m-iis .info-box-EhD .rectangle-49-P4K {
+  width: 29.4rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 0;
+  top: 18.0725rem;
+  backdrop-filter: blur(1.55rem);
+  background-color: rgba(255, 255, 255, 0.7200000286);
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-5e5m-iis .info-box-EhD .description-ekw {
+  width: 14.5rem;
+  height: 30.4725rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-5e5m-iis .info-box-EhD .description-ekw .product-name-M9Z {
+  margin-bottom: 22.5479rem;
+  width: 100%;
+  height: 4.9247rem;
+  position: relative;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-5e5m-iis .info-box-EhD .description-ekw .product-name-M9Z .product-name-pYw {
+  width: 10.2rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2000000817;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-5e5m-iis .info-box-EhD .description-ekw .product-name-M9Z .sort-description-Fu9 {
+  width: 14.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.5247rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-5e5m-iis .info-box-EhD .description-ekw .fix-price-YtF {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .images-1-TSF .auto-group-5e5m-iis .info-box-EhD .arrow-right-H59 {
+  width: 1.5203rem;
+  height: 1.164rem;
+  position: absolute;
+  left: 25.0405rem;
+  top: 28.6885rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-kym .above-the-fold-vmm .image-gallery-G6s .rectangle-48-taj {
+  width: 93.4rem;
+  height: 55.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV {
+  width: 124rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 10rem;
+  top: 4rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .auto-group-wsy3-7TV {
+  box-sizing: border-box;
+  padding: 0.8rem 4.9rem 0.6rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .auto-group-wsy3-7TV .funiro-SEs {
+  margin-right: 3.9rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .auto-group-wsy3-7TV .menus-Z4b {
+  margin: 0.3rem 0rem 0.4rem 0rem;
+  height: calc(100% - 0.7rem);
+  display: flex;
+  column-gap: 4.4167rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .auto-group-wsy3-7TV .menus-Z4b .menu-ftK {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .auto-group-wsy3-7TV .menus-Z4b .menu-ftK .products-daF {
+  margin-right: 1.7167rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .auto-group-wsy3-7TV .menus-Z4b .menu-ftK .icon-arrow-down-Yx7 {
+  margin-top: 0.0834rem;
+  width: 1.1667rem;
+  height: 0.5833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .auto-group-wsy3-7TV .menus-Z4b .menu-sUb {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .auto-group-wsy3-7TV .menus-Z4b .menu-sUb .rooms-S1u {
+  margin-right: 1.5167rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .auto-group-wsy3-7TV .menus-Z4b .menu-sUb .icon-arrow-down-ZcK {
+  margin-top: 0.0834rem;
+  width: 1.1667rem;
+  height: 0.5833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .auto-group-wsy3-7TV .menus-Z4b .inspirations-HHR {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .searchbar-oWf {
+  margin-right: 12.2622rem;
+  box-sizing: border-box;
+  padding: 1.2rem 27.2rem 1.2rem 1.533rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .searchbar-oWf .icon-search-vLP {
+  margin: 0rem 1.533rem 0.1rem 0rem;
+  width: 1.3333rem;
+  height: 1.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .searchbar-oWf .placeholder-RY3 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .icons-wWP {
+  margin: 0.3rem 0rem 0.2rem 0rem;
+  height: calc(100% - 0.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .icons-wWP .auto-group-mn7r-fxB {
+  box-sizing: border-box;
+  padding: 1.05rem 3.45rem 1.095rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .icons-wWP .auto-group-mn7r-fxB .icon-heart-oHh {
+  margin: 0.071rem 3.462rem 0rem 0rem;
+  width: 2.0756rem;
+  height: 1.7849rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .icons-wWP .auto-group-mn7r-fxB .icon-cart-Wxo {
+  margin-bottom: 0.0054rem;
+  width: 2.05rem;
+  height: 1.85rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .top-nav-pDV .icons-wWP .ellipse-2-3Sw {
+  width: 4rem;
+  height: 4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .hero-content-A1m {
+  box-sizing: border-box;
+  padding: 6rem;
+  width: 49.4rem;
+  height: 55.3rem;
+  position: absolute;
+  left: 10rem;
+  top: 14.1rem;
+  backdrop-filter: blur(1.55rem);
+  background-color: rgba(255, 255, 255, 0.7200000286);
+}
+.home-page-kym .above-the-fold-vmm .hero-content-A1m .content-fz7 {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-kym .above-the-fold-vmm .hero-content-A1m .content-fz7 .auto-group-jdtj-cuM {
+  box-sizing: border-box;
+  padding-bottom: 4.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .hero-content-A1m .content-fz7 .auto-group-jdtj-cuM .high-quality-furniture-just-for-you-xTR {
+  margin-bottom: 1.5rem;
+  max-width: 35.1rem;
+  font-size: 5.6rem;
+  font-weight: 700;
+  line-height: 1.2000000817;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .hero-content-A1m .content-fz7 .auto-group-jdtj-cuM .our-furniture-is-made-from-selected-and-best-quality-materials-that-are-suitable-for-your-dream-home-eLF {
+  max-width: 35.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-kym .above-the-fold-vmm .hero-content-A1m .content-fz7 .cta-primary-hJX {
+  width: 100%;
+  height: 7.8rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e89f71;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV {
+  margin: 0rem 11.9rem 0rem 10rem;
+  width: calc(100% - 21.9rem);
+  height: 8.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-5-311 {
+  margin-right: 11.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-5-311 .auto-group-mvfr-9Jw {
+  margin-right: 0.1rem;
+  width: 8.5rem;
+  height: 8.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-5-311 .text-GeT {
+  margin: 1.6rem 0;
+  height: calc(100% - 3.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-5-311 .text-GeT .high-quality-oPV {
+  margin-bottom: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-5-311 .text-GeT .crafted-from-top-materials-j2F {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-3-3Hq {
+  margin-right: 10.3rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0rem 1.6rem 2.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-3-3Hq .guarantee-yBV {
+  margin: 0rem 2.4rem 0.1rem 0rem;
+  width: 4rem;
+  height: 3.875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-3-3Hq .text-Hxs {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-3-3Hq .text-Hxs .warrany-protection-eYX {
+  margin-bottom: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-3-3Hq .text-Hxs .over-2-years-Amm {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-2-HbV {
+  margin-right: 10.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-2-HbV .auto-group-hkhz-dvF {
+  margin-right: 0.3rem;
+  width: 8.5rem;
+  height: 8.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-2-HbV .text-Ncw {
+  margin: 1.6rem 0;
+  height: calc(100% - 3.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-2-HbV .text-Ncw .free-shipping-Wj9 {
+  margin-bottom: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-2-HbV .text-Ncw .order-over-150--3j5 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-4-BKV {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-4-BKV .auto-group-qatp-wZZ {
+  margin-right: 0.1rem;
+  width: 8.5rem;
+  height: 8.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-4-BKV .text-GLw {
+  margin: 1.6rem 0;
+  height: calc(100% - 3.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-4-BKV .text-GLw .support-pNT {
+  margin-bottom: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .feature-LMV .group-4-BKV .text-GLw .dedicated-support-YJT {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 {
+  width: 176.3rem;
+  height: 212.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 {
+  width: 144rem;
+  height: 115.9634rem;
+  position: absolute;
+  left: 0;
+  top: 96.1366rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .bg-KyR {
+  width: 144rem;
+  height: 33.6rem;
+  position: absolute;
+  left: 0;
+  top: 82.3634rem;
+  background-color: #ffffff;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .stay-updated-eko {
+  width: 29.2rem;
+  height: 9rem;
+  position: absolute;
+  left: 104.4rem;
+  top: 87.2634rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .stay-updated-eko .stay-updated-mqR {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .stay-updated-eko .searchbar-tv3 {
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .stay-updated-eko .searchbar-tv3 .auto-group-sjn3-3Y3 {
+  margin-right: 0.4rem;
+  box-sizing: border-box;
+  padding: 1rem 1.2rem 1.1rem 1.2rem;
+  width: 24.2rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #828282;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f4f5f7;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .stay-updated-eko .searchbar-tv3 .auto-group-v4wk-KVZ {
+  width: 4.6rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .stay-connected-Fu1 {
+  width: 16.5rem;
+  height: 14.9rem;
+  position: absolute;
+  left: 78.4rem;
+  top: 87.2634rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .stay-connected-Fu1 .stay-connected-yq1 {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .stay-connected-Fu1 .facebook-hW7 {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .stay-connected-Fu1 .instagram-F1q {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .stay-connected-Fu1 .twitter-nGf {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .account-FR9 {
+  width: 8.5rem;
+  height: 18.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 87.2634rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .account-FR9 .account-B3u {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .account-FR9 .my-account-iJj {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .account-FR9 .checkout-dwV {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .account-FR9 .my-cart-abq {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .account-FR9 .my-catalog-WkP {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .menu-Tfd {
+  width: 9.8rem;
+  height: 22.9rem;
+  position: absolute;
+  left: 42.8rem;
+  top: 87.2634rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .menu-Tfd .menu-PJP {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .menu-Tfd .products-ibZ {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .menu-Tfd .rooms-rhm {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .menu-Tfd .inspirations-bfM {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .menu-Tfd .about-us-YKh {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .menu-Tfd .terms-policy-Ho5 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .about-31Z {
+  width: 24.8rem;
+  height: 110.9634rem;
+  position: absolute;
+  left: 9.9rem;
+  top: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .about-31Z .auto-group-a9ap-NJj {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 106.9634rem;
+  position: relative;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .about-31Z .auto-group-a9ap-NJj .funiro-Jy5 {
+  width: 7.6rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0;
+  top: 87.2634rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .about-31Z .auto-group-a9ap-NJj .worldwide-furniture-store-since-2020-we-sell-over-1000-branded-products-on-our-website-1sV {
+  width: 24.8rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 91.7634rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .about-31Z .auto-group-a9ap-NJj .group-18-gij {
+  width: 21.7917rem;
+  height: 102.9634rem;
+  position: absolute;
+  left: 0.2083rem;
+  top: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .about-31Z .auto-group-a9ap-NJj .group-18-gij .pin-24px-Dif {
+  margin-bottom: 99.36rem;
+  width: 1.5833rem;
+  height: 1.2033rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .about-31Z .auto-group-a9ap-NJj .group-18-gij .sawojajar-malang-indonesia-9sD {
+  margin-left: 2.5917rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .about-31Z .auto-group-a9ap-NJj .group-17-dnP {
+  width: 12.7917rem;
+  height: 104.2228rem;
+  position: absolute;
+  left: 0.2083rem;
+  top: 2.7406rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .about-31Z .auto-group-a9ap-NJj .group-17-dnP .phone-24px-xJs {
+  margin-bottom: 100.7708rem;
+  width: 1.5833rem;
+  height: 1.0519rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .about-31Z .auto-group-a9ap-NJj .group-17-dnP .item-6289-456-3455-fUB {
+  margin-left: 2.5917rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .about-31Z .wwwfunirocom-ZpT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .footer-1C3 .vector-2-hvf {
+  width: 123.7rem;
+  height: 0;
+  position: absolute;
+  left: 9.9rem;
+  top: 79.2634rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf {
+  box-sizing: border-box;
+  padding: 4.4rem 0rem 4.4rem 10rem;
+  width: 176rem;
+  height: 67rem;
+  position: absolute;
+  left: 0;
+  top: 112.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #fbf7f3;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .auto-group-v7fd-tET {
+  margin: 17.9rem 10.2rem 17.9rem 0rem;
+  width: 36.2rem;
+  height: calc(100% - 35.8rem);
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .auto-group-v7fd-tET .title-Ckw {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .auto-group-v7fd-tET .title-Ckw .title-9AP {
+  margin-bottom: 0.8rem;
+  max-width: 36.2rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .auto-group-v7fd-tET .title-Ckw .subtitle-Dg3 {
+  max-width: 36.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .auto-group-v7fd-tET .cta-MGT {
+  width: 17.6rem;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e89f71;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .image-ncf {
+  box-sizing: border-box;
+  padding: 42.8rem 11.5rem 2.4rem 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-24-bg.png');
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .image-ncf .content-WoZ {
+  box-sizing: border-box;
+  padding: 3.2rem 4.5rem 3.2rem 3.2rem;
+  width: 21.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  backdrop-filter: blur(1.6rem);
+  background-color: rgba(255, 255, 255, 0.7200000286);
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .image-ncf .content-WoZ .frame-3-RvX {
+  margin: 0rem 1.2rem 0.8rem 0rem;
+  display: flex;
+  column-gap: 0.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .image-ncf .content-WoZ .frame-3-RvX .item-01-ZWw {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .image-ncf .content-WoZ .frame-3-RvX .vector-1-hd9 {
+  width: 2.7rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .image-ncf .content-WoZ .frame-3-RvX .bed-room-3h1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .image-ncf .content-WoZ .inner-peace-awq {
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.2000000817;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .image-ncf .cta-6QP {
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .auto-group-zvsh-pLP {
+  box-sizing: border-box;
+  padding-left: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .auto-group-zvsh-pLP .auto-group-g8aj-9dZ {
+  margin-right: 0.3rem;
+  width: 39.3rem;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .auto-group-zvsh-pLP .auto-group-g8aj-9dZ .auto-group-1faf-hQB {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 48.6rem;
+  position: relative;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .auto-group-zvsh-pLP .auto-group-g8aj-9dZ .auto-group-1faf-hQB .rectangle-25-FRh {
+  width: 37.2rem;
+  height: 48.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .auto-group-zvsh-pLP .auto-group-g8aj-9dZ .auto-group-1faf-hQB .group-13-nRd {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 34.5rem;
+  top: 26.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .auto-group-zvsh-pLP .auto-group-g8aj-9dZ .indicator-7io {
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .auto-group-zvsh-pLP .auto-group-g8aj-9dZ .indicator-7io .active-RjV {
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .auto-group-zvsh-pLP .auto-group-g8aj-9dZ .indicator-7io .ellipse-1-NPq {
+  width: 1.1rem;
+  height: 1.1rem;
+  background-color: #d8d8d8;
+  border-radius: 0.55rem;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .auto-group-zvsh-pLP .auto-group-g8aj-9dZ .indicator-7io .ellipse-2-JYP {
+  width: 1.1rem;
+  height: 1.1rem;
+  background-color: #d8d8d8;
+  border-radius: 0.55rem;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .auto-group-zvsh-pLP .auto-group-g8aj-9dZ .indicator-7io .ellipse-3-3F5 {
+  width: 1.1rem;
+  height: 1.1rem;
+  background-color: #d8d8d8;
+  border-radius: 0.55rem;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .inspirations-Rrf .products-dUs .auto-group-zvsh-pLP .rectangle-26-B6P {
+  width: 37.2rem;
+  height: 48.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 {
+  width: 123.6rem;
+  height: 108.4rem;
+  position: absolute;
+  left: 10rem;
+  top: 0;
+  row-gap: 3.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .title-otT {
+  margin-left: 0.5rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK {
+  width: 100%;
+  height: 44.6rem;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX .bg-cb1 {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX .description-kx7 {
+  width: 22.5rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX .description-kx7 .product-name-TrX {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX .description-kx7 .product-name-TrX .product-name-DKu {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX .description-kx7 .product-name-TrX .sort-description-LvK {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX .description-kx7 .frame-6-gUP {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX .description-kx7 .frame-6-gUP .fix-price-F1h {
+  margin-right: 3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX .description-kx7 .frame-6-gUP .fix-price-Bg3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: line-through;
+  color: #b0b0b0;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX .images-vNj {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-3-bg.png');
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX .images-vNj .image-2-pj1 {
+  width: 28.4rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX .images-vNj .image-1-x4X {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sNX .images-vNj .discount-Vq9 {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 21.3rem;
+  top: 2.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e97171;
+  border-radius: 2.4rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .bg-NnT {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .description-6Cf {
+  width: 22.5rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .description-6Cf .product-name-E3y {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .description-6Cf .product-name-E3y .product-name-add {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .description-6Cf .product-name-E3y .sort-description-4Yo {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .description-6Cf .frame-6-Pqy {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .images-j99 {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-3-bg-8YF.png');
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .images-j99 .image-2-fHh {
+  width: 28.4rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .images-j99 .discount-o91 {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 21.3rem;
+  top: 2.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e97171;
+  border-radius: 2.4rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .pop-up-mEF {
+  box-sizing: border-box;
+  padding: 17.5rem 4.1rem 17.5rem 4.2rem;
+  width: 28.5rem;
+  height: 44.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(58, 58, 58, 0.7200000286);
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .pop-up-mEF .button-t3y {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .pop-up-mEF .button-t3y .cta-dGT {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #e89f71;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .pop-up-mEF .button-t3y .frame-5-tCP {
+  margin: 0rem 0.5rem 0rem 1.3rem;
+  width: calc(100% - 1.8rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .pop-up-mEF .button-t3y .frame-5-tCP .group-11-bsV {
+  margin-right: 5.2622rem;
+  box-sizing: border-box;
+  padding-left: 0.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .pop-up-mEF .button-t3y .frame-5-tCP .group-11-bsV .gridicons-share-98K {
+  margin: 0rem 1.1rem 0rem 0rem;
+  width: 1.8rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .pop-up-mEF .button-t3y .frame-5-tCP .group-11-bsV .share-cnb {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .pop-up-mEF .button-t3y .frame-5-tCP .group-10-MVH {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .pop-up-mEF .button-t3y .frame-5-tCP .group-10-MVH .heart-Upo {
+  margin: 0.026rem 0.962rem 0rem 0rem;
+  width: 2.0756rem;
+  height: 1.7849rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-2yV .pop-up-mEF .button-t3y .frame-5-tCP .group-10-MVH .like-CVu {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-7cs {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-7cs .bg-s6F {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-7cs .description-Qrs {
+  width: 23rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-7cs .description-Qrs .product-name-9Jf {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-7cs .description-Qrs .product-name-9Jf .product-name-6Uo {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-7cs .description-Qrs .product-name-9Jf .sort-description-oe7 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-7cs .description-Qrs .frame-6-Y5u {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-7cs .description-Qrs .frame-6-Y5u .fix-price-Vmq {
+  margin-right: 2.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-7cs .description-Qrs .frame-6-Y5u .fix-price-3HZ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: line-through;
+  color: #b0b0b0;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-7cs .images-nF9 {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 2.4rem 21.3rem;
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-3-bg-rdD.png');
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-7cs .images-nF9 .discount-VQT {
+  margin-bottom: 20.5rem;
+  width: 100%;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e97171;
+  border-radius: 2.4rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sR1 {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sR1 .bg-QA3 {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sR1 .description-LJb {
+  width: 23.3rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sR1 .description-LJb .product-name-s3d {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sR1 .description-LJb .product-name-s3d .product-name-1vX {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sR1 .description-LJb .product-name-s3d .sort-description-WMV {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sR1 .description-LJb .frame-6-eTh {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-7-jGK .featured-products-sR1 .images-BTd {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-4-bg-eyM.png');
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 {
+  width: 100%;
+  height: 44.6rem;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-k9M {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-k9M .bg-Hf5 {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-k9M .description-pf1 {
+  width: 22.5rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-k9M .description-pf1 .product-name-Z6o {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-k9M .description-pf1 .product-name-Z6o .product-name-6sR {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-k9M .description-pf1 .product-name-Z6o .sort-description-PrX {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-k9M .description-pf1 .frame-6-Jib {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-k9M .images-Daf {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 2.4rem 21.3rem;
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-5-qoM.png');
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-k9M .images-Daf .discount-fBm {
+  margin-bottom: 20.5rem;
+  width: 100%;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e97171;
+  border-radius: 2.4rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-C5D {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-C5D .bg-w2o {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-C5D .description-UHd {
+  width: 22.5rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-C5D .description-UHd .product-name-CjR {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-C5D .description-UHd .product-name-CjR .product-name-McK {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-C5D .description-UHd .product-name-CjR .sort-description-VTd {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-C5D .description-UHd .frame-6-oz7 {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-C5D .images-MEw {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-6-bg-Fzw.png');
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-JJb {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-JJb .bg-SQo {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-JJb .description-ZkK {
+  width: 23rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-JJb .description-ZkK .product-name-6kF {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-JJb .description-ZkK .product-name-6kF .product-name-8B9 {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-JJb .description-ZkK .product-name-6kF .sort-description-TUK {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-JJb .description-ZkK .frame-6-baX {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-JJb .description-ZkK .frame-6-baX .fix-price-wuH {
+  margin-right: 2.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-JJb .description-ZkK .frame-6-baX .fix-price-VA7 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: line-through;
+  color: #b0b0b0;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-JJb .images-Dbu {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 2.4rem 21.3rem;
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-7-bg-32F.png');
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-JJb .images-Dbu .discount-j4T {
+  margin-bottom: 20.5rem;
+  width: 100%;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e97171;
+  border-radius: 2.4rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-WzK {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-WzK .bg-2Ss {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-WzK .description-xbR {
+  width: 23.3rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-WzK .description-xbR .product-name-rwh {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-WzK .description-xbR .product-name-rwh .product-name-1pb {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-WzK .description-xbR .product-name-rwh .sort-description-Lrs {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-WzK .description-xbR .frame-6-GEj {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .frame-8-cJ3 .featured-products-WzK .images-ZzX {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-8-bg-Za7.png');
+}
+.home-page-kym .auto-group-2pcf-fP5 .our-products-JB1 .show-more-Gtw {
+  margin: 0rem 49.5rem 0rem 49.6rem;
+  width: calc(100% - 99.1rem);
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #e89f71;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #e89f71;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}

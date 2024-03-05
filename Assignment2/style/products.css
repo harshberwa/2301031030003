@@ -1,0 +1,1667 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.products-8WT {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.products-8WT .above-the-fold-ymy {
+  box-sizing: border-box;
+  padding: 0.9406rem 10rem;
+  width: 100%;
+  height: 18.2rem;
+  background-color: #fcf8f3;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd {
+  width: 100%;
+  height: 4.0705rem;
+  display: flex;
+  align-items: flex-start;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .funiro-ca3 {
+  margin: 0.188rem 3.9rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .menus-4wq {
+  margin: 0.259rem 4.9rem 0rem 0rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 4.4167rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .menus-4wq .menu-k3y {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .menus-4wq .menu-k3y .products-6dd {
+  margin-right: 1.7167rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .menus-4wq .menu-k3y .icon-arrow-down-crs {
+  margin-top: 0.0834rem;
+  width: 1.1667rem;
+  height: 0.5833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .menus-4wq .menu-rWK {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .menus-4wq .menu-rWK .rooms-ckP {
+  margin-right: 1.5167rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .menus-4wq .menu-rWK .icon-arrow-down-MCB {
+  margin-top: 0.0834rem;
+  width: 1.1667rem;
+  height: 0.5833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .menus-4wq .inspirations-sAX {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .searchbar-CCo {
+  margin-right: 12.2622rem;
+  width: 47.3rem;
+  height: 2.3822rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .searchbar-CCo .rectangle-2-WjH {
+  width: 47.3rem;
+  height: 1.0581rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .searchbar-CCo .placeholder-SN3 {
+  width: 15.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 0.2822rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .searchbar-CCo .icon-search-XuH {
+  width: 1.3333rem;
+  height: 0.3135rem;
+  position: absolute;
+  left: 1.5333rem;
+  top: 0.3606rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .icons-4PR {
+  margin-top: 0.0705rem;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .icons-4PR .auto-group-tsrm-AST {
+  box-sizing: border-box;
+  padding: 1.05rem 3.45rem 1.095rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .icons-4PR .auto-group-tsrm-AST .icon-heart-5pK {
+  margin: 0.071rem 3.462rem 0rem 0rem;
+  width: 2.0756rem;
+  height: 1.7849rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .icons-4PR .auto-group-tsrm-AST .icon-cart-c3Z {
+  margin-bottom: 0.0054rem;
+  width: 2.05rem;
+  height: 1.85rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-8WT .above-the-fold-ymy .top-nav-Uyd .icons-4PR .ellipse-2-YC7 {
+  width: 4rem;
+  height: 4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-qCs.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b {
+  margin-right: 4.2rem;
+  width: calc(100% - 4.2rem);
+  height: 228.0187rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X {
+  width: 144rem;
+  height: 143.9771rem;
+  position: absolute;
+  left: 0;
+  top: 84.0417rem;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .bg-679 {
+  width: 144rem;
+  height: 33.6rem;
+  position: absolute;
+  left: 0;
+  top: 110.3771rem;
+  background-color: #ffffff;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .stay-updated-oGT {
+  width: 29.2rem;
+  height: 9rem;
+  position: absolute;
+  left: 100.5rem;
+  top: 115.2771rem;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .stay-updated-oGT .stay-updated-L1V {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .stay-updated-oGT .searchbar-T67 {
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .stay-updated-oGT .searchbar-T67 .auto-group-8bax-zrj {
+  margin-right: 0.4rem;
+  box-sizing: border-box;
+  padding: 1rem 1.2rem 1.1rem 1.2rem;
+  width: 24.2rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #828282;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f4f5f7;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .stay-updated-oGT .searchbar-T67 .auto-group-avth-q6f {
+  width: 4.6rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .stay-connected-ZoM {
+  width: 16.5rem;
+  height: 14.9rem;
+  position: absolute;
+  left: 74.5rem;
+  top: 115.2771rem;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .stay-connected-ZoM .stay-connected-taj {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .stay-connected-ZoM .facebook-E8o {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .stay-connected-ZoM .instagram-Ao9 {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .stay-connected-ZoM .twitter-ho5 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .account-3c3 {
+  width: 8.5rem;
+  height: 18.9rem;
+  position: absolute;
+  left: 57.2rem;
+  top: 115.2771rem;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .account-3c3 .account-AwZ {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .account-3c3 .my-account-5Yj {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .account-3c3 .checkout-2D5 {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .account-3c3 .my-cart-MWF {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .account-3c3 .my-catalog-6Cw {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .menu-bvP {
+  width: 9.8rem;
+  height: 22.9rem;
+  position: absolute;
+  left: 38.9rem;
+  top: 115.2771rem;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .menu-bvP .menu-8QX {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .menu-bvP .products-UDV {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .menu-bvP .rooms-PrF {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .menu-bvP .inspirations-LmV {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .menu-bvP .about-us-gqM {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .menu-bvP .terms-policy-pAs {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .about-xH5 {
+  width: 24.8rem;
+  height: 138.9771rem;
+  position: absolute;
+  left: 6rem;
+  top: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .about-xH5 .auto-group-eagf-Vno {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 134.9771rem;
+  position: relative;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .about-xH5 .auto-group-eagf-Vno .funiro-du1 {
+  width: 7.6rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0;
+  top: 115.2771rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .about-xH5 .auto-group-eagf-Vno .worldwide-furniture-store-since-2020-we-sell-over-1000-branded-products-on-our-website-kCw {
+  width: 24.8rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 119.7771rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .about-xH5 .auto-group-eagf-Vno .group-18-zsy {
+  width: 21.7917rem;
+  height: 130.9771rem;
+  position: absolute;
+  left: 0.2083rem;
+  top: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .about-xH5 .auto-group-eagf-Vno .group-18-zsy .pin-24px-hXV {
+  margin-bottom: 127.6301rem;
+  width: 1.5833rem;
+  height: 0.947rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .about-xH5 .auto-group-eagf-Vno .group-18-zsy .sawojajar-malang-indonesia-EGX {
+  margin-left: 2.5917rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .about-xH5 .auto-group-eagf-Vno .group-17-9eP {
+  width: 12.7917rem;
+  height: 132.8259rem;
+  position: absolute;
+  left: 0.2083rem;
+  top: 2.1512rem;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .about-xH5 .auto-group-eagf-Vno .group-17-9eP .phone-24px-HEo {
+  margin-bottom: 129.6002rem;
+  width: 1.5833rem;
+  height: 0.8257rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .about-xH5 .auto-group-eagf-Vno .group-17-9eP .item-6289-456-3455-cH5 {
+  margin-left: 2.5917rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .about-xH5 .wwwfunirocom-KhH {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .footer-y2X .vector-2-sD1 {
+  width: 123.7rem;
+  height: 0;
+  position: absolute;
+  left: 6rem;
+  top: 107.2771rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX {
+  width: 123.6rem;
+  height: 177.6rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .title-ijR {
+  margin: 0rem 0rem 3.2rem 0.5rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  height: 44.6rem;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 .bg-F75 {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 .description-af9 {
+  width: 22.5rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 .description-af9 .product-name-WYo {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 .description-af9 .product-name-WYo .product-name-Tiw {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 .description-af9 .product-name-WYo .sort-description-zD5 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 .description-af9 .frame-6-vcX {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 .description-af9 .frame-6-vcX .fix-price-sGs {
+  margin-right: 3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 .description-af9 .frame-6-vcX .fix-price-bif {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: line-through;
+  color: #b0b0b0;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 .images-jZy {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-3-bg-xmm.png');
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 .images-jZy .image-2-eS3 {
+  width: 28.4rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 .images-jZy .image-1-mFm {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-kg7 .images-jZy .discount-tbH {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 21.3rem;
+  top: 2.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e97171;
+  border-radius: 2.4rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .bg-b8K {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .description-jVR {
+  width: 22.5rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .description-jVR .product-name-53V {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .description-jVR .product-name-53V .product-name-pmm {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .description-jVR .product-name-53V .sort-description-Aaj {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .description-jVR .frame-6-7F5 {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .images-E4o {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-3-bg-Vfm.png');
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .images-E4o .image-2-AUF {
+  width: 28.4rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .images-E4o .discount-6co {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 21.3rem;
+  top: 2.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e97171;
+  border-radius: 2.4rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .pop-up-Fu1 {
+  box-sizing: border-box;
+  padding: 17.5rem 4.1rem 17.5rem 4.2rem;
+  width: 28.5rem;
+  height: 44.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(58, 58, 58, 0.7200000286);
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .pop-up-Fu1 .button-k55 {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .pop-up-Fu1 .button-k55 .cta-6ej {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #e89f71;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .pop-up-Fu1 .button-k55 .frame-5-a47 {
+  margin: 0rem 0.5rem 0rem 1.3rem;
+  width: calc(100% - 1.8rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .pop-up-Fu1 .button-k55 .frame-5-a47 .group-11-gN3 {
+  margin-right: 5.2622rem;
+  box-sizing: border-box;
+  padding-left: 0.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .pop-up-Fu1 .button-k55 .frame-5-a47 .group-11-gN3 .gridicons-share-RKd {
+  margin: 0rem 1.1rem 0rem 0rem;
+  width: 1.8rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .pop-up-Fu1 .button-k55 .frame-5-a47 .group-11-gN3 .share-8jq {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .pop-up-Fu1 .button-k55 .frame-5-a47 .group-10-TGK {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .pop-up-Fu1 .button-k55 .frame-5-a47 .group-10-TGK .heart-1od {
+  margin: 0.026rem 0.962rem 0rem 0rem;
+  width: 2.0756rem;
+  height: 1.7849rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-SWK .pop-up-Fu1 .button-k55 .frame-5-a47 .group-10-TGK .like-Lqu {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-TvX {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-TvX .bg-1h9 {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-TvX .description-LDd {
+  width: 23rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-TvX .description-LDd .product-name-GNB {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-TvX .description-LDd .product-name-GNB .product-name-1qZ {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-TvX .description-LDd .product-name-GNB .sort-description-MPd {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-TvX .description-LDd .frame-6-66K {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-TvX .description-LDd .frame-6-66K .fix-price-ETR {
+  margin-right: 2.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-TvX .description-LDd .frame-6-66K .fix-price-ZEo {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: line-through;
+  color: #b0b0b0;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-TvX .images-Tqy {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 2.4rem 21.3rem;
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-3-bg-7FV.png');
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-TvX .images-Tqy .discount-joV {
+  margin-bottom: 20.5rem;
+  width: 100%;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e97171;
+  border-radius: 2.4rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-wuZ {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-wuZ .bg-h83 {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-wuZ .description-SLX {
+  width: 23.3rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-wuZ .description-SLX .product-name-8z3 {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-wuZ .description-SLX .product-name-8z3 .product-name-gEs {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-wuZ .description-SLX .product-name-8z3 .sort-description-QwZ {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-wuZ .description-SLX .frame-6-m1R {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-7-Dw5 .featured-products-wuZ .images-HkT {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-4-bg-L2b.png');
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT {
+  margin-bottom: 72.4rem;
+  width: 100%;
+  height: 44.6rem;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-h3V {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-h3V .bg-qfV {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-h3V .description-PBD {
+  width: 22.5rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-h3V .description-PBD .product-name-X2X {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-h3V .description-PBD .product-name-X2X .product-name-H1h {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-h3V .description-PBD .product-name-X2X .sort-description-Q6K {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-h3V .description-PBD .frame-6-ish {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-h3V .images-f2F {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 2.4rem 21.3rem;
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-5-Awy.png');
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-h3V .images-f2F .discount-crb {
+  margin-bottom: 20.5rem;
+  width: 100%;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e97171;
+  border-radius: 2.4rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-Cpo {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-Cpo .bg-x3H {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-Cpo .description-69V {
+  width: 22.5rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-Cpo .description-69V .product-name-pbH {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-Cpo .description-69V .product-name-pbH .product-name-Nsh {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-Cpo .description-69V .product-name-pbH .sort-description-7qH {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-Cpo .description-69V .frame-6-Tu9 {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-Cpo .images-bkT {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-6-bg-5qR.png');
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-EYX {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-EYX .bg-asH {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-EYX .description-XGj {
+  width: 23rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-EYX .description-XGj .product-name-f83 {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-EYX .description-XGj .product-name-f83 .product-name-QrK {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-EYX .description-XGj .product-name-f83 .sort-description-MWf {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-EYX .description-XGj .frame-6-6DM {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-EYX .description-XGj .frame-6-6DM .fix-price-qRq {
+  margin-right: 2.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-EYX .description-XGj .frame-6-6DM .fix-price-n6B {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: line-through;
+  color: #b0b0b0;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-EYX .images-Hod {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 2.4rem 21.3rem;
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-7-bg-9Jf.png');
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-EYX .images-Hod .discount-bpK {
+  margin-bottom: 20.5rem;
+  width: 100%;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e97171;
+  border-radius: 2.4rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-pSB {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-pSB .bg-m6X {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-pSB .description-WZu {
+  width: 23.3rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-pSB .description-WZu .product-name-eAK {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-pSB .description-WZu .product-name-eAK .product-name-Ptb {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-pSB .description-WZu .product-name-eAK .sort-description-wQK {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-pSB .description-WZu .frame-6-gsh {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .frame-8-AJT .featured-products-pSB .images-2As {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-8-bg-ubd.png');
+}
+.products-8WT .auto-group-2uf5-S2b .our-products-zYX .show-more-LBZ {
+  margin: 0rem 56.5rem 0rem 42.6rem;
+  width: calc(100% - 99.1rem);
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #e89f71;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #e89f71;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd {
+  width: 123.6rem;
+  height: 44.6rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 117.5rem;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-GzK {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-GzK .bg-DuZ {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-GzK .description-x6T {
+  width: 22.5rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-GzK .description-x6T .product-name-tF1 {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-GzK .description-x6T .product-name-tF1 .product-name-EJs {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-GzK .description-x6T .product-name-tF1 .sort-description-Zrw {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-GzK .description-x6T .frame-6-7dZ {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-GzK .images-ETH {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 2.4rem 21.3rem;
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-5-oSw.png');
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-GzK .images-ETH .discount-XxB {
+  margin-bottom: 20.5rem;
+  width: 100%;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e97171;
+  border-radius: 2.4rem;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-k4F {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-k4F .bg-J5m {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-k4F .description-ddq {
+  width: 22.5rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-k4F .description-ddq .product-name-mEF {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-k4F .description-ddq .product-name-mEF .product-name-hNo {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-k4F .description-ddq .product-name-mEF .sort-description-EtX {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-k4F .description-ddq .frame-6-nQF {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-k4F .images-j4b {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-6-bg-hTM.png');
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-ab1 {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-ab1 .bg-86j {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-ab1 .description-e55 {
+  width: 23rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-ab1 .description-e55 .product-name-yd9 {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-ab1 .description-e55 .product-name-yd9 .product-name-w4B {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-ab1 .description-e55 .product-name-yd9 .sort-description-5AP {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-ab1 .description-e55 .frame-6-DnP {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-ab1 .description-e55 .frame-6-DnP .fix-price-Ypf {
+  margin-right: 2.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-ab1 .description-e55 .frame-6-DnP .fix-price-w67 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: line-through;
+  color: #b0b0b0;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-ab1 .images-skT {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 2.4rem 21.3rem;
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-7-bg-tE3.png');
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-ab1 .images-skT .discount-8wH {
+  margin-bottom: 20.5rem;
+  width: 100%;
+  height: 4.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e97171;
+  border-radius: 2.4rem;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-nW3 {
+  width: 28.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-nW3 .bg-LXZ {
+  width: 28.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 0;
+  top: 30.1rem;
+  background-color: #f4f5f7;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-nW3 .description-snP {
+  width: 23.3rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.7rem;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-nW3 .description-snP .product-name-QnK {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-nW3 .description-snP .product-name-QnK .product-name-AmV {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2000000477;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-nW3 .description-snP .product-name-QnK .sort-description-iHD {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #898989;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-nW3 .description-snP .frame-6-rPR {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.products-8WT .auto-group-2uf5-S2b .frame-8-Pfd .featured-products-nW3 .images-bbu {
+  width: 28.5rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-8-bg-MPm.png');
+}

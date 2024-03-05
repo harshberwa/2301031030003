@@ -1,0 +1,560 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.about-us-eNb {
+  width: 100%;
+  height: 147.8rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.about-us-eNb .footer-tnj {
+  width: 144rem;
+  height: 143.9942rem;
+  position: absolute;
+  left: 0;
+  top: 0.0263rem;
+}
+.about-us-eNb .footer-tnj .bg-CYX {
+  width: 144rem;
+  height: 33.6rem;
+  position: absolute;
+  left: 0;
+  top: 110.3942rem;
+  background-color: #ffffff;
+}
+.about-us-eNb .footer-tnj .stay-updated-79h {
+  width: 29.2rem;
+  height: 9rem;
+  position: absolute;
+  left: 99.4rem;
+  top: 115.2942rem;
+}
+.about-us-eNb .footer-tnj .stay-updated-79h .stay-updated-d83 {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .stay-updated-79h .searchbar-Whd {
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+}
+.about-us-eNb .footer-tnj .stay-updated-79h .searchbar-Whd .auto-group-soo5-EtX {
+  margin-right: 0.4rem;
+  box-sizing: border-box;
+  padding: 1rem 1.2rem 1.1rem 1.2rem;
+  width: 24.2rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #828282;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f4f5f7;
+  flex-shrink: 0;
+}
+.about-us-eNb .footer-tnj .stay-updated-79h .searchbar-Whd .auto-group-gxr5-Hbu {
+  width: 4.6rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-eNb .footer-tnj .stay-connected-c8P {
+  width: 16.5rem;
+  height: 14.9rem;
+  position: absolute;
+  left: 73.4rem;
+  top: 115.2942rem;
+}
+.about-us-eNb .footer-tnj .stay-connected-c8P .stay-connected-jTu {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .stay-connected-c8P .facebook-roR {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .stay-connected-c8P .instagram-CMV {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .stay-connected-c8P .twitter-Xef {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .account-4eb {
+  width: 8.5rem;
+  height: 18.9rem;
+  position: absolute;
+  left: 56.1rem;
+  top: 115.2942rem;
+}
+.about-us-eNb .footer-tnj .account-4eb .account-nqV {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .account-4eb .my-account-7cs {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .account-4eb .checkout-raT {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .account-4eb .my-cart-YiB {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .account-4eb .my-catalog-HQs {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .menu-Rmy {
+  width: 9.8rem;
+  height: 22.9rem;
+  position: absolute;
+  left: 37.8rem;
+  top: 115.2942rem;
+}
+.about-us-eNb .footer-tnj .menu-Rmy .menu-xmu {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .menu-Rmy .products-J55 {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .menu-Rmy .rooms-qao {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .menu-Rmy .inspirations-BPm {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .menu-Rmy .about-us-72X {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .menu-Rmy .terms-policy-T6P {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .about-AFh {
+  width: 24.8rem;
+  height: 138.9942rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 0;
+}
+.about-us-eNb .footer-tnj .about-AFh .auto-group-v1gs-69M {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 134.9942rem;
+  position: relative;
+}
+.about-us-eNb .footer-tnj .about-AFh .auto-group-v1gs-69M .funiro-EFZ {
+  width: 7.6rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0;
+  top: 115.2942rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .about-AFh .auto-group-v1gs-69M .worldwide-furniture-store-since-2020-we-sell-over-1000-branded-products-on-our-website-w9y {
+  width: 24.8rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 119.7942rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+}
+.about-us-eNb .footer-tnj .about-AFh .auto-group-v1gs-69M .group-18-D7V {
+  width: 21.7917rem;
+  height: 130.9942rem;
+  position: absolute;
+  left: 0.2083rem;
+  top: 0;
+}
+.about-us-eNb .footer-tnj .about-AFh .auto-group-v1gs-69M .group-18-D7V .pin-24px-k7R {
+  margin-bottom: 128.018rem;
+  width: 1.5833rem;
+  height: 0.5762rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-eNb .footer-tnj .about-AFh .auto-group-v1gs-69M .group-18-D7V .sawojajar-malang-indonesia-HNF {
+  margin-left: 2.5917rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .about-AFh .auto-group-v1gs-69M .group-17-1JF {
+  width: 12.7917rem;
+  height: 133.6901rem;
+  position: absolute;
+  left: 0.2083rem;
+  top: 1.3041rem;
+}
+.about-us-eNb .footer-tnj .about-AFh .auto-group-v1gs-69M .group-17-1JF .phone-24px-YJB {
+  margin-bottom: 130.7895rem;
+  width: 1.5833rem;
+  height: 0.5006rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-eNb .footer-tnj .about-AFh .auto-group-v1gs-69M .group-17-1JF .item-6289-456-3455-5J7 {
+  margin-left: 2.5917rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .about-AFh .wwwfunirocom-bGT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-eNb .footer-tnj .vector-2-6yu {
+  width: 123.7rem;
+  height: 0;
+  position: absolute;
+  left: 4.9rem;
+  top: 107.2942rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-eNb .footer-tnj .btn-SH5 {
+  width: 16.1rem;
+  height: 6rem;
+  position: absolute;
+  left: 17.6rem;
+  top: 86.1737rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.7000000477;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #074a99;
+  border-radius: 0.5rem;
+}
+.about-us-eNb .above-the-fold-951 {
+  box-sizing: border-box;
+  padding: 4rem 10rem 7.3rem 10rem;
+  width: 144rem;
+  height: 77.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fcf8f3;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF {
+  margin-bottom: 18.2rem;
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .auto-group-3syh-iGX {
+  box-sizing: border-box;
+  padding: 0.8rem 4.9rem 0.6rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .auto-group-3syh-iGX .funiro-duH {
+  margin-right: 3.9rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .auto-group-3syh-iGX .menus-AeK {
+  margin: 0.3rem 0rem 0.4rem 0rem;
+  height: calc(100% - 0.7rem);
+  display: flex;
+  column-gap: 4.4167rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .auto-group-3syh-iGX .menus-AeK .menu-gMm {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .auto-group-3syh-iGX .menus-AeK .menu-gMm .products-EeB {
+  margin-right: 1.7167rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .auto-group-3syh-iGX .menus-AeK .menu-gMm .icon-arrow-down-x4P {
+  margin-top: 0.0834rem;
+  width: 1.1667rem;
+  height: 0.5833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .auto-group-3syh-iGX .menus-AeK .menu-eC7 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .auto-group-3syh-iGX .menus-AeK .menu-eC7 .rooms-CzK {
+  margin-right: 1.5167rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .auto-group-3syh-iGX .menus-AeK .menu-eC7 .icon-arrow-down-Eg7 {
+  margin-top: 0.0834rem;
+  width: 1.1667rem;
+  height: 0.5833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .auto-group-3syh-iGX .menus-AeK .inspirations-y7u {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #3a3a3a;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .searchbar-6iK {
+  margin-right: 12.2622rem;
+  box-sizing: border-box;
+  padding: 1.2rem 27.2rem 1.2rem 1.533rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .searchbar-6iK .icon-search-PxK {
+  margin: 0rem 1.533rem 0.1rem 0rem;
+  width: 1.3333rem;
+  height: 1.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .searchbar-6iK .placeholder-KLB {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #606060;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .icons-e7Z {
+  margin: 0.3rem 0rem 0.2rem 0rem;
+  height: calc(100% - 0.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .icons-e7Z .auto-group-zzzx-mT5 {
+  box-sizing: border-box;
+  padding: 1.05rem 3.45rem 1.095rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .icons-e7Z .auto-group-zzzx-mT5 .icon-heart-tnb {
+  margin: 0.071rem 3.462rem 0rem 0rem;
+  width: 2.0756rem;
+  height: 1.7849rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .icons-e7Z .auto-group-zzzx-mT5 .icon-cart-D4B {
+  margin-bottom: 0.0054rem;
+  width: 2.05rem;
+  height: 1.85rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .top-nav-PEF .icons-e7Z .ellipse-2-wVy {
+  width: 4rem;
+  height: 4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-j2w.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .about-us-efH {
+  margin: 0rem 13.5rem 4.1rem 0rem;
+  font-size: 8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.2rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .the-most-professionall-company-kTR {
+  margin: 0rem 51.2rem 13.9rem 0rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.3;
+  letter-spacing: 0.02rem;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Fira Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-eNb .above-the-fold-951 .quis-aliqua-sunt-nisi-consectetur-anim-ullamco-ea-ut-deserunt-non-voluptate-nisi-sit-elit-exercitation-eu-lorem-mollit-occaecat-nisi-occaecat-fugiat-ullamco-pariatur-excepteur-qui-dolore-quis-aliqua-sunt-nisi-consectetur-anim-ullamco-ea-quis-aliqua-sunt-nisi-consectetur-anim-ullamco-eaollit-occaecat-nisi-occaecat-fugiat-ullamco-dGK {
+  margin-right: 11.8rem;
+  max-width: 97rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.7000000477;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
